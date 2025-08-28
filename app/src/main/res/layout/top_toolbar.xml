@@ -16,6 +16,7 @@
             android:layout_gravity="center_vertical"
             android:textSize="20sp"
             />
+
         <ImageButton
             android:id="@+id/btnNew"
             android:layout_width="wrap_content"
